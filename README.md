@@ -6,4 +6,4 @@
 * di-DaggerHilt
 * http_client-Retrofit
 
-Download: [app-debug.apk](https://github.com/imnithish/HeirarchyList/blob/master/apk/app-debug.apk)
+Download: [app-debug.apk](https://github.com/imnithish/HeirarchyList/raw/master/apk/app-debug.apk)
