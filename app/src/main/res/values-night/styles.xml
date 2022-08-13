@@ -1,0 +1,11 @@
+<!--
+  ~ Created by Nitheesh AG on 2022/8/13
+  -->
+
+<resources>
+
+    <style name="Widget.Theme.HeirarchyList.MyView" parent="">
+        <item name="android:background">@color/gray_600</item>
+        <item name="exampleColor">@color/light_blue_600</item>
+    </style>
+</resources>
